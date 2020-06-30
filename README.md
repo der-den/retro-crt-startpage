@@ -13,7 +13,7 @@ Interactive example @ http://scar45.github.io/retro-crt-startpage/index.html
 
 - Links are read in from a JSON file that's easy to update (see ```links.dist.json``` for an example)
 - Tag filters
-- Weather support with browser location using jQuery Simple Weather
+- ~~Weather support with browser location using jQuery Simple Weather~~ REMOVED - API is dead!
 - Google search form (can be changed to other search providers if you wish)
 - 3 customizable design features toggled via the metal plate in the top-right area:
   - Power On/Off with CRT effects
