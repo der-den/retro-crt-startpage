@@ -9,11 +9,13 @@ Interactive example @ http://scar45.github.io/retro-crt-startpage/index.html
 
 [![Screenie](preview.png "Click to try the demo version")](http://scar45.github.io/retro-crt-startpage/index.html)
 
+**Note: This fork has removed the random data at the bottom of page.**
+
 ## Features
 
 - Links are read in from a JSON file that's easy to update (see ```links.dist.json``` for an example)
 - Tag filters
-- ~~Weather support with browser location using jQuery Simple Weather~~ REMOVED - API is dead!
+- ~~Weather support with browser location using jQuery Simple Weather~~ **REMOVED - API is dead!**
 - Google search form (can be changed to other search providers if you wish)
 - 3 customizable design features toggled via the metal plate in the top-right area:
   - Power On/Off with CRT effects
